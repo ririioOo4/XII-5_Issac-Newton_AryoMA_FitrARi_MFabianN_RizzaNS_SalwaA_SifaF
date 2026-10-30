@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Isaac Newton</title>
+</head>
+<body>
+    <h1>Isaac Newton</h1>
+
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg"
+      alt="Isaac Newton"
+      width="300"
+    >
+
+    <p>Isaac Newton adalah seorang ilmuwan,
+    fisikawan, dan matematikawan.</p>
+<h3> Pendidikan Dasar dan Menengah</h3>
+<ol>
+  <li>The King's School, Grantham: Newton bersekolah di sini dari usia 12 hingga 17 tahun.</li>
+<li>Sempat Putus Sekolah: Ia sempat dikeluarkan dari sekolah oleh keluarganya agar menjadi petani, namun dibujuk oleh kepala sekolah untuk kembali hingga ia tamat pada usia 18 tahun dengan nilai yang memuaskan</li>
+</ol>
+<h3>Pendidikan Tinggi di Universitas Cambridge</h3>
+<ol>
+<li>Trinity College, Cambridge: Pada Juni 1661, ia masuk ke Trinity College, Universitas Cambridge sebagai seorang sizar (mahasiswa yang bekerja sambil belajar).</li>
+<li>Gelar Sarjana: Ia mendalami karya Aristoteles dan René Descartes sebelum berhasil meraih gelar sarjana (Bachelor of Arts) pada tahun 1665.</li>
+<li>Masa Karantina & Inovasi: Pada tahun 1665–1666, kegiatan kampus dihentikan sementara karena wabah pes bubo. Newton pulang ke Lincolnshire dan pada masa inilah ia mengembangkan dasar-dasar kalkulus, optik, serta teori gravitasi.</li>
+<li>Gelar Master & Profesor: Ia mendapatkan gelar Master of Arts pada tahun 1667, terpilih menjadi Fellow di Trinity College, lalu diangkat menjadi Profesor Matematika Lucasian pada tahun 1669.</li>
+</ol>
+
+<h3>Hobi Isaac Newton</h3>
+<ul>
+  <li>Membuat Kerajinan Kayu & Model Mekanik: Saat masih sekolah, ia sangat gemar merancang dan membuat miniatur kayu, seperti kincir angin, layang-layang yang dipasangi lentera, hingga jam matahari</li>
+  <li>Membaca dan Menulis Catatan: Newton adalah pembaca yang sangat rakus. Ia ***** menyendiri untuk membaca buku filsafat alam dan membuat jurnal catatan eksperimennya sendiri.</li>
+  <li>Alkimia dan Teologi: Di luar sains murni, ia menghabiskan ribuan jam mendalami alkimia (ilmu mengubah zat/logam) dan mempelajari teologi atau penafsiran Alkitab secara mendalam</li>
+</ul>
+
+
+<h3>Penemuan Besar Isaac Newton</h3>
+
+<style>
+  .tabel-penemuan {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .tabel-penemuan th,
+  .tabel-penemuan td {
+    border: 1px solid;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .img-tabel {
+    width: 150px;
+    height: 110px;
+    object-fit: contain;
+  }
+</style>
+
+<table class="tabel-penemuan">
+  <thead>
+    <tr>
+      <th>No</th>
+      <th>Gambar</th>
+      <th>Penemuan</th>
+      <th>Deskripsi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/NewtonsLawOfUniversalGravitation.svg"
+             alt="Ilustrasi Gravitasi"
+             class="img-tabel">
+      </td>
+      <td><strong>Hukum Gravitasi Universal</strong></td>
+      <td>Newton merumuskan bahwa setiap benda di alam semesta menarik benda lain dengan gaya yang bergantung pada massa dan jarak antar benda.</td>
+    </tr>
+
+    <tr>
+      <td>2</td>
+      <td>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Newtonian_telescope.svg"
+             alt="Teleskop Reflektor"
+             class="img-tabel">
+      </td>
+      <td><strong>Teleskop Reflektor (Newtonian)</strong></td>
+      <td>Newton menciptakan teleskop menggunakan cermin pantul untuk mengurangi aberasi warna.</td>
+    </tr>
+
+    <tr>
+      <td>3</td>
+      <td>
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Dispersion_prism.jpg"
+             alt="Prisma Cahaya"
+             class="img-tabel">
+      </td>
+      <td><strong>Teori Cahaya dan Warna</strong></td>
+      <td>Melalui eksperimen prisma kaca, Newton menunjukkan bahwa cahaya putih terdiri dari berbagai warna.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Penghargaan Isaac Newton</title>
+
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    th, td {
+      border: 1px solid black;
+      padding: 10px;
+      text-align: center;
+    }
+
+    img {
+      width: 130px;
+      height: 110px;
+      object-fit: contain;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h3>Penghargaan dan Kehormatan Isaac Newton</h3>
+
+  <table>
+    <thead>
+      <tr>
+        <th>No</th>
+        <th>Gambar</th>
+        <th>Tahun</th>
+        <th>Penghargaan / Kehormatan</th>
+        <th>Deskripsi</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>
+          <img
+            src="https://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_the_Royal_Society.svg?width=300"
+            alt="Lambang Royal Society">
+        </td>
+        <td>1672</td>
+        <td><strong>Anggota Royal Society</strong></td>
+        <td>
+          Isaac Newton terpilih menjadi anggota
+          Royal Society, organisasi ilmiah
+          bergengsi di Inggris.
+        </td>
+      </tr>
+
+      <tr>
+        <td>2</td>
+        <td>
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg"
+            alt="Isaac Newton">
+        </td>
+        <td>1703</td>
+        <td><strong>Presiden Royal Society</strong></td>
+        <td>
+          Newton terpilih sebagai Presiden
+          Royal Society dan menjabat
+          hingga akhir hayatnya pada 1727.
+        </td>
+      </tr>
+
+      <tr>
+        <td>3</td>
+        <td>
+          <img
+            src="https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Anne.jpg?width=300"
+            alt="Ratu Anne">
+        </td>
+        <td>1705</td>
+        <td><strong>Gelar Kesatria (Knight Bachelor)</strong></td>
+        <td>
+          Newton dianugerahi gelar kesatria
+          oleh Ratu Anne sehingga berhak
+          menggunakan gelar Sir Isaac Newton.
+        </td>
+      </tr>
+
+      <tr>
+        <td>4</td>
+        <td>
+          <img
+            src="https://commons.wikimedia.org/wiki/Special:FilePath/Westminster_Abbey_West_Door.jpg?width=300"
+            alt="Westminster Abbey">
+        </td>
+        <td>1727</td>
+        <td><strong>Penghormatan di Westminster Abbey</strong></td>
+        <td>
+          Newton dimakamkan di Westminster Abbey,
+          London, sebagai penghormatan
+          atas kontribusinya terhadap
+          perkembangan ilmu pengetahuan.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+</body>
+</html>
+
+
+
+
+<h3>Instagram Anggota Kelompok 5</h3>
+
+<ol>
+  <li>
+    <a href="https://www.instagram.com/otasaka_bian._/"
+       target="_blank"
+       rel="noopener noreferrer"
+       onclick="window.open(this.href, '_blank'); return false;">
+      @otasaka_bian._
+    </a>
+  </li>
+
+  <li>
+    <a href="https://www.instagram.com/aryooalrf/"
+       target="_blank"
+       rel="noopener noreferrer"
+       onclick="window.open(this.href, '_blank'); return false;">
+      @aryooalrf
+    </a>
+  </li>
+
+  <li>
+    <a href="https://www.instagram.com/rrxyrii/"
+       target="_blank"
+       rel="noopener noreferrer"
+       onclick="window.open(this.href, '_blank'); return false;">
+      @rrxyrii
+    </a>
+  </li>
+
+  <li>
+    <a href="https://www.instagram.com/sifafauzh27/"
+       target="_blank"
+       rel="noopener noreferrer"
+       onclick="window.open(this.href, '_blank'); return false;">
+      @sifafauzh27
+    </a>
+  </li>
+
+  <li>
+    <a href="https://www.instagram.com/sabirr.a4___/"
+       target="_blank"
+       rel="noopener noreferrer"
+       onclick="window.open(this.href, '_blank'); return false;">
+      @sabirr.a4___
+    </a>
+  </li>
+
+  <li>
+    <a href="https://www.instagram.com/rrissasr/"
+       target="_blank"
+       rel="noopener noreferrer"
+       onclick="window.open(this.href, '_blank'); return false;">
+      @rrissasr
+    </a>
+  </li>
+</ol>
+
+
+
+
+</body>
+</html>
